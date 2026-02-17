@@ -4,10 +4,12 @@
 252490 = Rust
 275850 = No man`s Sky
 431960 = Wallpaper Engine
-1196590 = Resident Evil Village
-418370 = Resident Evil 7 Biohazard
 883710 = Resident Evil 2
+952060 = Resident Evil 3
 2050650 = Resident Evil 4
 21690 = Resident Evil 5
+221040 = Resident Evil 6
+418370 = Resident Evil 7 Biohazard
+1196590 = Resident Evil Village
 730 = Counter-Strike 2
 1593500 = God of War

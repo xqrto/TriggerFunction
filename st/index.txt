@@ -8,5 +8,6 @@
 418370 = Resident Evil 7 Biohazard
 883710 = Resident Evil 2
 2050650 = Resident Evil 4
+21690 = Resident Evil 5
 730 = Counter-Strike 2
 1593500 = God of War

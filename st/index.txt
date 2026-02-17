@@ -13,3 +13,4 @@
 1196590 = Resident Evil Village
 730 = Counter-Strike 2
 1593500 = God of War
+553850 = HELLDIVERS™ 2

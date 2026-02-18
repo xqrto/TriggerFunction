@@ -15,3 +15,7 @@
 1593500 = God of War
 553850 = HELLDIVERS™ 2
 1817070 = Marvel’s Spider-Man Remastered
+1721470 = Poppy Playtime
+1817490 = Poppy Playtime - Chapter 2
+2555190 = Poppy Playtime - Chapter 3
+3008670 = Poppy Playtime - Chapter 4

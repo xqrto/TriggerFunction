@@ -20,3 +20,4 @@
 2555190 = Poppy Playtime - Chapter 3
 3008670 = Poppy Playtime - Chapter 4
 1174180 = Red Dead Redemption 2
+284160 = BeamNG.drive

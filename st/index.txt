@@ -19,3 +19,4 @@
 1817490 = Poppy Playtime - Chapter 2
 2555190 = Poppy Playtime - Chapter 3
 3008670 = Poppy Playtime - Chapter 4
+1174180 = Red Dead Redemption 2
